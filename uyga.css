@@ -1,0 +1,74 @@
+body{
+    /* justify-content: center; */
+}
+
+.container{
+    background-color: blue;
+    width: 90%;
+    height: 100%;
+    margin: 0% auto;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+.boxes{
+    background-color: red;
+    border-radius: 50px;
+    width: 200px;
+    height: 50px;
+    padding: 15px 60px;
+    box-sizing: border-box;
+    color: white;
+}
+
+.rasm{
+    /* margin: 0px 15%; */
+    padding-top: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    border: 5px solid red;
+}
+
+.orta{
+    background-color: black;
+    border-radius: 20px;
+    width: 300px;
+    height: 150px;
+    box-sizing: border-box;
+    margin: 50px auto;
+    color: white;
+    font-size: 40px;
+    padding: 50px 75px;
+}
+
+.pastki{
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    font-size: 17px;
+    text-align: center;
+    
+}
+
+.chap{
+    background-color: rgb(0, 255, 21);
+    border: 60px solid red;
+    width: 350px;
+    height: 150px;
+    border-radius: 60px;
+}
+
+.ong{
+    background-color: rgb(0, 255, 21);
+    border: 60px solid red;
+    width: 350px;
+    height: 150px;
+    border-radius: 60px;
+}
